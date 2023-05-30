@@ -1,0 +1,108 @@
+header {
+    background-color: #1CD1B0;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.heroes {
+    position: relative;
+    background-color: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+    position: sticky 20px;
+
+}
+
+.salon {
+    background-image: url(../img/salon.png);
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 32px;
+    top: 293px;
+
+}
+
+.harley {
+    background-image: url(../img/fondoharley.png);
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 362px;
+    top: 293px;
+
+}
+
+.salon2 {
+    background-image: url(../img/salon.png);
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 692px;
+    top: 293px;
+}
+
+.batman {
+    position: absolute;
+    background: #F3F3F3;
+    height: 336px;
+    width: 300px;
+    left: 32px;
+    top: 485px;
+    border-radius: 0px;
+}
+
+.queen {
+    position: absolute;
+    background: #F3F3F3;
+    height: 336px;
+    width: 300px;
+    left: 362px;
+    top: 485px;
+    border-radius: 0px;
+}
+
+.batman2 {
+    position: absolute;
+    background: #F3F3F3;
+    height: 336px;
+    width: 300px;
+    left: 692px;
+    top: 486px;
+    border-radius: 0px;
+
+}
+
+.texto {
+      
+    width: 267px;
+    height: 113px;
+    left: 48px;
+    top: 604px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.corazon {position: absolute;
+    top: 6.25%;   
+    margin-left: 10px;
+  }
+
+footer {
+    background: #00669F;
+    position: absolute;
+    width: 1024px;
+    height: 51px;
+    left: 0px;
+    top: 972px;
+    color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
